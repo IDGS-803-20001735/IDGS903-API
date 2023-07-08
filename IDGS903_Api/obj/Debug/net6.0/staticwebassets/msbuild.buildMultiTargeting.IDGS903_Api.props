@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\IDGS903_Api.props" />
+</Project>
